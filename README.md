@@ -12,11 +12,11 @@ When working on this task either
 
 Try to answer as thruthfully as possible.
 
-| Name                     | xxxxx        |
+| Name                     | Charitha Madala |
 |--------------------------|--------------|
-| E-Mail:                  | xxxxx@xxx.xx |
-| Approx. Time To Complete | xx hours     |
-| My github:               | xxxxxxx      |
+| E-Mail:                  | charithaapplication@gmail.com |
+| Approx. Time To Complete | 7 hours     |
+| My github:               | charitha-madala |
 
 ## The task
 
@@ -60,4 +60,7 @@ You have to authenticate at the API. Use your assigned **API Key** for that purp
 
 # Ask a question about the documents
 ./associate "[question]"
+
+# Test accuracy of the generated answers
+./associate --mode=test
 ```
